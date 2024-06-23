@@ -1,5 +1,7 @@
 Simple Logging Library
 
+Video Explanation  : https://youtu.be/zuJsBoGPhJ4
+
 Objective:
 
 Develop a basic logging library that can be used by applications to log
